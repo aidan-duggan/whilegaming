@@ -29,8 +29,6 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Contact: "contact"
-  Author's home: "http://whilegaming.github.io"
   
 # --- Footer options --- #
 
