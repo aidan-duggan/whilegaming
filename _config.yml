@@ -17,7 +17,7 @@ baseurl: ""
 title: While ( Gaming )
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: A blog about gaming of all kinds and sometimes software design
 
 # --- Navigation bar options --- #
 
@@ -51,7 +51,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "http://whilegaming.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "http://whilegaming.github.io"
 
 # --- Misc --- #
 
