@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: me
 subtitle: Decisions, decisions, decisions..
 ---
 
