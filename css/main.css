@@ -307,9 +307,9 @@ header.header-page .page-heading .page-subheading {
 header.page-heading.while {
         color: #7F0055;
 }
-header.page-heading.var {
+.var {
         color: #0000C0;
-  }
+}
 
 header.header-post .post-heading .post-subheading {
   margin-bottom: 20px;
