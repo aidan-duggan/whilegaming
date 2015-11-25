@@ -295,6 +295,13 @@ header.header-page .page-heading h1 {
   margin-top: 0;
 }
 
+.while {
+        color: #7F0055;
+}
+.var {
+        color: #0000C0;
+  }
+
 header.header-post .post-heading .post-subheading,
 header.header-page .page-heading .page-subheading {
   font-size: 24px;
