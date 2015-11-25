@@ -8,4 +8,4 @@ My name is Aidan Duggan, I'm avid gamers of all types, though particularly board
 
 This blog will sporadically follow my adventures in gaming, with perhaps the odd programming tangent.
 
-This site is powered by Jykell and GitHub, mostly as an excuse for me to learn more about Git and I quite like the purity and simplity of static html pages. Lets see how long I last before jumping to something that looks fancier!
+This site is powered by Jekyll and GitHub, mostly as an excuse for me to learn more about Git and I quite like the purity and simplity of static html pages. Lets see how long I last before jumping to something that looks fancier!
