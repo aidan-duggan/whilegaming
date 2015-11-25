@@ -294,6 +294,12 @@ header.header-page .page-heading h1 {
   font-size: 50px;
   margin-top: 0;
 }
+.while {
+        color: #7F0055;
+}
+.var {
+        color: #0000C0;
+}
 
 header.header-post .post-heading .post-subheading,
 header.header-page .page-heading .page-subheading {
@@ -303,12 +309,6 @@ header.header-page .page-heading .page-subheading {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
-}
-header.page-heading.while {
-        color: #7F0055;
-}
-.var {
-        color: #0000C0;
 }
 
 header.header-post .post-heading .post-subheading {
