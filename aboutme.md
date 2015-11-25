@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Decisions, decisions, decisions..
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Aidan Duggan, I'm avid gamers of all types, though particularly boardgames. For a living I'm a Java software developer working for a financial software company.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This blog will sporadically follow my adventures in gaming, with perhaps the odd programming tangent.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This site is powered by Jykell and GitHub, mostly as an excuse for me to learn more about Git and I quite like the purity and simplity of static html pages. Lets see how long a last before jumping to something that looks fancier!
