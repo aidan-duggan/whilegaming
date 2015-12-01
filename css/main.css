@@ -279,6 +279,8 @@ footer .theme-by {
 
 header.header-page {
   margin-bottom: 20px;
+  width: 100%;
+  z-index: 0;
 }
 
 header.header-page .page-heading {
