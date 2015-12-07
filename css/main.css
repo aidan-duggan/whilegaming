@@ -45,7 +45,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .main-content {
-    padding-top: 130px;
+    padding-top: 80px;
   }
 }
 
@@ -281,6 +281,8 @@ header.header-page {
   margin-bottom: 20px;
   width: 100%;
   z-index: 0;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 header.header-page .page-heading {
