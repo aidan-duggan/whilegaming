@@ -62,7 +62,7 @@ url-pretty: "http://whilegaming.github.io"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "GMT"
 markdown: kramdown
 highlighter: pygments
 permalink: /:year-:month-:day-:title
