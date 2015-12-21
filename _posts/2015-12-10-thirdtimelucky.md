@@ -2,6 +2,7 @@
 layout: post
 title: Third Times a Charm
 subtitle: In the beginning...
+image: http://whilegaming.github.io/img/icon.png
 ---
 
 This is actually my third attempt to start a blog. My first idea, years ago, was one dedicated to boardgame design call 'The Boardgame Cabinet'. I had a great idea for a web design based on that premise, and played around with some obscure blogging software and hosting services to run it. Alas my web design skills were not up to the challenge and the project died on the literal drawing board. (I still have my notes for planned posts so it might revive in some form). Strike one.
