@@ -22,10 +22,10 @@ css: "/css/index.css"
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
-    <div style="display:inline-block;vertical-align:top;">
-    	<img src="{{post.image}}" alt="img"/>
-    </div>
-    <div class="post-entry" style="display:inline-block;">
+    <p align="center">
+  	<img src="{{post.image}}" alt="{{post.imageText}}"/>
+  </p>
+    <div class="post-entry" ">
       {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
 	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     </div>
