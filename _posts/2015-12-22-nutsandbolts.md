@@ -20,6 +20,6 @@ Hosting on GitHub also gives me the opportunity to learn git. The company I work
   <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"/>
 </p>
 
-I stumbled across this theme [beautiful-jekyll](http://deanattali.com/beautiful-jekyll/) that looks like what I want so I have started with that and will slowly customised it to my tastes. Naturally this site will slowly evolve as I get more familiar with the various tools so apologies in advance if anything does quite work yet.
+I stumbled across this theme [beautiful-jekyll](http://deanattali.com/beautiful-jekyll/) that looks like what I want so I have started with that and will slowly customised it to my tastes. Naturally this site will slowly evolve as I get more familiar with the various tools so apologies in advance if anything doesn't quite work yet.
 
-I'll try to post more thoughts and experiences I have with creating this site, and it has been very helpful to me to read other people's experiences.
+I'll try to post more thoughts and experiences I have with creating this site, as it has been very helpful to me to read other people's experiences.
