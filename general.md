@@ -3,7 +3,6 @@ layout: default
 title: General
 subtitle: Posts about general topics that don't fall under other categories
 ---
-<h1>Simple Category Pages with vanilla Jekyll</h1>
 
 {% unless page.content == '' %}
   <p>{{ page.content }}</p>
