@@ -3,11 +3,11 @@ layout: page
 title: general
 subtitle: Posts about general topics that don't fall under other categories
 ---
-<!--
+
 <h2 >dfgsdfgsdfgdf</h2>
 <div class="posts-list">
-  {% for post in site.categories.general %}
-    {% if post.category = general %}
+  {% for post in paginator.posts %}
+    {% if post.type = "general" %}
       <article class="post-preview">
       <a href="{{ post.url | prepend: site.baseurl }}">
   	  <h2 class="post-title">{{ post.title }}</h2>
@@ -34,4 +34,4 @@ subtitle: Posts about general topics that don't fall under other categories
 	  {% endif %} 
   {% endfor %}
 </div>
--->
+
