@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: General
 subtitle: Posts about general topics that don't fall under other categories
 ---
