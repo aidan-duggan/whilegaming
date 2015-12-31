@@ -5,10 +5,9 @@ subtitle: Posts about general topics that don't fall under other categories
 css: "/css/index.css"
 ---
 
-<h2 >a</h2>
 <div class="posts-list">
   {% for post in site.posts %}
-    <!--{% if post.type == "general" %}-->
+    {% if post.type == "general" %}
       <article class="post-preview">
       <a href="{{ post.url | prepend: site.baseurl }}">
   	  <h2 class="post-title">{{ post.title }}</h2>
@@ -32,7 +31,6 @@ css: "/css/index.css"
         </div>
       
         </article>
- <!--	  {% endif %} -->
   {% endfor %}
 </div>
 
