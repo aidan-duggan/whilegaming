@@ -43,7 +43,7 @@ css: "/css/index.css"
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{paginator.next_page_title}} &rarr;</a>
   </li>
   {% endif %}
 </ul>
