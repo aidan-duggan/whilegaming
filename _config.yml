@@ -29,7 +29,8 @@ avatar: "/img/icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  General: "test"
+  General: "general"
+  Test: "test"
   
 # --- Footer options --- #
 
