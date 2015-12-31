@@ -2,6 +2,7 @@
 layout: post
 title: The Nuts and Bolts
 subtitle: How it all works.
+type: general
 image: https://jekyllrb.com/img/logo-2x.png
 imageText: "Jekyll"
 ---
