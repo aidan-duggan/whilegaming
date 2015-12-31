@@ -29,6 +29,7 @@ avatar: "/img/icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
+  General: "general"
   
 # --- Footer options --- #
 
