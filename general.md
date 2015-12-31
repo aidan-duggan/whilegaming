@@ -1,7 +1,7 @@
 ---
 layout: page
 title: general
-subtitle: Posts about general topics that don't fall under other categories1
+subtitle: Posts about general topics that don't fall under other categories
 ---
 <!--
 <h2 >dfgsdfgsdfgdf</h2>
