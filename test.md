@@ -1,1 +1,36 @@
+---
+layout: page
+title: general
+subtitle: Posts about general topics that don't fall under other categories1
+---
+<h2 >dfgsdfgsdfgdf</h2>
+<div class="posts-list">
+  {% for post in site.categories.general %}
+    {% if post.category = general %}
+      <article class="post-preview">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+  	  <h2 class="post-title">{{ post.title }}</h2>
+  	
+  	  {% if post.subtitle %}
+  	  <h3 class="post-subtitle">
+  	    {{ post.subtitle }}
+  	  </h3>
+  	  {% endif %}  
+      </a>
+  
+      <p class="post-meta">
+        Posted on {{ post.date | date: "%B %-d, %Y" }}
+      </p>
+      <p align="center">
+    	<img src="{{post.image}}" alt="{{post.imageText}}"/>
+      </p>
+        <div class="post-entry" ">
+          {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
+    	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+        </div>
+      
+        </article>
+	  {% endif %} 
+  {% endfor %}
+</div>
 
