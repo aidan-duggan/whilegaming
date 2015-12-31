@@ -3,6 +3,7 @@ layout: page
 title: general
 subtitle: Posts about general topics that don't fall under other categories1
 ---
+<!--
 <h2 >dfgsdfgsdfgdf</h2>
 <div class="posts-list">
   {% for post in site.categories.general %}
@@ -33,3 +34,4 @@ subtitle: Posts about general topics that don't fall under other categories1
 	  {% endif %} 
   {% endfor %}
 </div>
+-->
