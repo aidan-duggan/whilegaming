@@ -2,6 +2,7 @@
 layout: post
 title: Third Time's the Charm
 subtitle: In the beginning...
+type: general
 image: http://whilegaming.github.io/img/icon.png
 imageText: "My first logo"
 ---
