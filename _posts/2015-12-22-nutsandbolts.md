@@ -4,7 +4,6 @@ title: The Nuts and Bolts
 subtitle: How it all works.
 image: https://jekyllrb.com/img/logo-2x.png
 imageText: "Jekyll"
-category: general
 ---
 
 When it comes to websites I prefer something clean and basic. I'm sure there are themes for Wordpress or blogger that fit this but I have a slight unexplained aversion to them for a personal site. I've used blogger for small project blogs no problem, but there is something I can't place why I don't want it for a personnel blog. 
