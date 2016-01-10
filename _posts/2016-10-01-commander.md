@@ -3,14 +3,14 @@ layout: post
 title: Commander...
 subtitle: It all begins here.
 type: xcom
-image: http://whilegaming.github.io/img/xcom.png
+image: http://whilegaming.github.io/img/xcom.jpg
 imageText: "XCOM"
 ---
 
 I never played the original x-com but as soon as played the remake xcom I fell in love with it. It has the perfect combination of smooth game play, easy to use UI and perfectly executed B movie aesthetics that I love.
 
 <p align="center">
-  <img src="http://whilegaming.github.io/img/xcom.png" alt="XCOM"/>
+  <img src="http://whilegaming.github.io/img/xcom.jpg" alt="XCOM"/>
 </p>
 
 
