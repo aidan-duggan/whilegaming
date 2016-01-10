@@ -30,6 +30,7 @@ navbar-links:
   Home: ""
   About Me: "aboutme"
   General: "general"
+  XCOM: "xcom"
   
 # --- Footer options --- #
 
