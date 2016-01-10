@@ -27,8 +27,15 @@ _Sectoids are the basic enemy in XCOM. They are the classic [Greys](https://en.w
 </p>
 _Thin Men are a parody of the [Men in Black](https://en.wikipedia.org/wiki/Men_in_black) that would fight against such Greys!_
 
-I've been recently looking to play some more 20mm wargaming. I have a fully painted Falklands era British platoon, and a number of building more appropriate for British Isles (they are model railway buildings originally) and I have started work on modern Irish army platoon. I have used all of these in Cold War gone hot scenarios but it isn't the most believable setup and my building paint jobs are not the best aesthetic (bright and primary colours) for it. I finally got around to painting my modern Irish platoon and was trying to see if I could use them with my British for some sort Irish/uk or uk civil war, but I felt the tone of that would wrong.
+I've been recently looking to play some more 20mm wargaming. I have a fully painted Falklands era British platoon, and a number of building more appropriate for British Isles (they are model railway buildings originally) and I have started work on modern Irish army platoon. I have used all of these in Cold War gone hot scenarios but it isn't the most believable setup and my building paint jobs are not the best aesthetic (bright and primary colours) for it. I finally got around to painting my modern Irish platoon and was trying to see if I could use them with my British for some sort Irish/uk or uk civil war, but I felt the tone of that would be wrong.
 
-Building and troops
+<p align="center">
+  <img src="http://whilegaming.github.io/img/DSC_0204.png" alt="Falklands British on Patrol"/>
+</p>
+_My [Falklands era](https://en.wikipedia.org/wiki/Falklands_War) British patrolling the local DIY store._
+<p align="center">
+  <img src="http://whilegaming.github.io/img/DSC_0203.png" alt="Modern era Irish"/>
+</p>
+_My modern era Irish squad take aim!_
 
 Then I had the amazing inspiration to do an xcom wargame! I can use all my modern soldiers and building as the setting would be anachronistic. Why there are modern Irish, 70s British and futuristic tech fighting in rural English countryside is a lot easier to explain when they are fighting aliens! My hope is this project will give me some focus for writing blog posts and will tie together my wargaming material in an original and hopefully fun way. Now to find the pieces I need!
