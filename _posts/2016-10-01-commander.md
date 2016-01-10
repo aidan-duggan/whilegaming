@@ -3,13 +3,16 @@ layout: post
 title: Commander...
 subtitle: It all begins here.
 type: xcom
-image: blob:https://drive.google.com/e30a387d-8c9c-4fcf-83d4-adda1b5c88cb
+image: http://whilegaming.github.io/img/xcom.png
 imageText: "XCOM"
 ---
 
 I never played the original x-com but as soon as played the remake xcom I fell in love with it. It has the perfect combination of smooth game play, easy to use UI and perfectly executed B movie aesthetics that I love.
 
-Xcom logo
+<p align="center">
+  <img src="http://whilegaming.github.io/img/xcom.png" alt="XCOM"/>
+</p>
+
 
 If you don't know xcom is a 2012 turn based action game with some light base management mechanics. The premise is that you are in charge of a secret military organisation responsible for protecting the earth from alien invasion (xcom).
 
