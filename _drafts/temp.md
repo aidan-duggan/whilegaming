@@ -3,6 +3,8 @@ layout: post
 title: The Invasion has Begun
 subtitle: But who are these mysterious beings from outer space?
 type: xcom
+image: http://whilegaming.github.io/img/collection.png
+imageText: "An assortment of XCOM aliens"
 ---
 
 So I have my [idea](http://whilegaming.github.io/2016-01-10-commander), but the challenge is putting it all together given
@@ -16,7 +18,10 @@ species has its own style, thankfully this transfers nicely for me
 into not requiring all the models come from the same company and have
 the same aesthetic!
 
-[collaget of three alien types]
+<p align="center">
+  <img src="http://whilegaming.github.io/img/collection.png" alt="An assortment of XCOM aliens"/>
+</p>
+_From left to right, Mutons, Sectoids and Thin Men are just some of the aliens in XCOM_
 
 Alas though it seems 20mm aliens are not very common! My plan is
 looking shaky. In my desperation I started searching for 15mm aliens.
@@ -30,7 +35,10 @@ quite happy with how they look, they are perhaps a little small and
 thin but that suits them being weak and numerous rather than of equal
 stature to humans.
 
-[picture of sectoids by sectoid model beside irish]
+<p align="center">
+  <img src="http://whilegaming.github.io/img/greys.png" alt="Rebel Miniatures 15mm Greys beside my modern Irish."/>
+</p>
+_The 15mm sectoids are a little thin but are the perfect height next to my 20mm modern Irish_
 
 15mm is very cheap and postage from the US makes most of the cost so I
 took a risk on a few other miniatures. One enemy in xcom are [Thin Men](http://www.ufopaedia.org/index.php?title=Thin_Man_(EU2012)),
@@ -41,7 +49,10 @@ hobbit sized instead of gangly, and at worst I could play them as 15mm
 with the other aliens. I'm not sure yet if they will really work as
 they are very small looking, time will tell.
 
-[picture of xcom thin men, beside MiB models beside irish]
+<p align="center">
+  <img src="http://whilegaming.github.io/img/mib.png" alt="Rebel Miniatures 15mm Men in Black beside my modern Irish."/>
+</p>
+_The 15mm Thin Men are a very thin against my 20mm modern Irish, they might not work out right, I'll just have to wait and see_
 
 I also found [brutish looking 15mm aliens](http://www.rebelminis.com/5150aliens.html), which are meant to be
 very large at 15mm. I hoped they would be human sized at 20mm and work
@@ -50,12 +61,17 @@ definitely wider so I think they will work. I only got two as a trial
 so if they work well I'll likely buy more otherwise I'll have to find
 something else.
 
-[picture of xcom brutes, beside brute models beside irish]
-
+<p align="center">
+  <img src="http://whilegaming.github.io/img/mutons.png" alt="Rebel Miniatures 15mm aliens beside my modern Irish."/>
+</p>
+_The 15mm Mutons are the same height as 20mm modern Irish but thicker, which should be close enough to look good._
 
 With the invasion force getting under way humanity needs a faster
 reaction force and that they are going to need to fancy
 transportation. Luckily the engineers are hard at work building a
 [Skyranger](http://www.ufopaedia.org/index.php?title=Skyranger_(EU2012))! so Stay tuned!
 
-[picture of skyranger]
+<p align="center">
+  <img src="http://whilegaming.github.io/img/skyranger.jpg" alt="XCOM Skyranger"/>
+</p>
+_Landing after a hard fought mission, my soliders are going to need something similiar to make it to the battlefield._
