@@ -1,1 +1,61 @@
+---
+layout: post
+title: The Invasion has Begun
+subtitle: But who are these mysterious beings from outer space?
+type: xcom
+---
 
+So I have my [idea](http://whilegaming.github.io/2016-01-10-commander), but the challenge is putting it all together given
+some self imposed constraints. The main hope is to be able to use my
+existing 20mm miniatures and my buildings so what I get has to fit
+with that. Unfortunately these requirements did not make that easy...
+
+What I need is an assortment of aliens to play the invasion force. In
+xcom it is a united hodge podge of alien species that attacks earth. Each
+species has its own style, thankfully this transfers nicely for me
+into not requiring all the models come from the same company and have
+the same aesthetic!
+
+[collaget of three alien types]
+
+Alas though it seems 20mm aliens are not very common! My plan is
+looking shaky. In my desperation I started searching for 15mm aliens.
+[Sectoids](http://www.ufopaedia.org/index.php?title=Sectoid_(EU2012)) , the weakest enemy in xcom, are smaller than humans so
+I was hopeful I'd find something at that scale that would work.
+
+I found classic [Greys in 15mm at rebel miniatures](http://www.rebelminis.com/15algrar.html) that looked
+perfect. My guess was they are human sized at 15mm which I hoped would
+work out as 4ft high aliens at 20mm! When I got them I was right and
+quite happy with how they look, they are perhaps a little small and
+thin but that suits them being weak and numerous rather than of equal
+stature to humans.
+
+[picture of sectoids by sectoid model beside irish]
+
+15mm is very cheap and postage from the US makes most of the cost so I
+took a risk on a few other miniatures. One enemy in xcom are [Thin Men](http://www.ufopaedia.org/index.php?title=Thin_Man_(EU2012)),
+they are gangly secret service looking humanoids, but with sickly pale
+skin, the invasion forces poor attempt at disguise I guess. So I got
+some 15mm [Men in Black type models](http://www.rebelminis.com/15mmmeninblack.html), figuring I could go for
+hobbit sized instead of gangly, and at worst I could play them as 15mm
+with the other aliens. I'm not sure yet if they will really work as
+they are very small looking, time will tell.
+
+[picture of xcom thin men, beside MiB models beside irish]
+
+I also found [brutish looking 15mm aliens](http://www.rebelminis.com/5150aliens.html), which are meant to be
+very large at 15mm. I hoped they would be human sized at 20mm and work
+as xcom [Mutons](http://www.ufopaedia.org/index.php?title=Muton_(EU2012)). In reality they are a bit shorter, but are
+definitely wider so I think they will work. I only got two as a trial
+so if they work well I'll likely buy more otherwise I'll have to find
+something else.
+
+[picture of xcom brutes, beside brute models beside irish]
+
+
+With the invasion force getting under way humanity needs a faster
+reaction force and that they are going to need to fancy
+transportation. Luckily the engineers are hard at work building a
+[Skyranger](http://www.ufopaedia.org/index.php?title=Skyranger_(EU2012))! so Stay tuned!
+
+[picture of skyranger]
