@@ -23,7 +23,7 @@ css: "/css/index.css"
         Posted on {{ post.date | date: "%B %-d, %Y" }}
       </p>
       <p align="center">
-    	<img src="{{post.image}}" alt="{{post.imageText}}"/>
+    	<img src="{{post.image}}" alt="{{post.imageText}}"  width="500"/>
       </p>
         <div class="post-entry" ">
           {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
