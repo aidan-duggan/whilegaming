@@ -4,7 +4,7 @@
 
 layout: post
 
-title: first times the charm
+title: First times the charm
 
 type: general
 
