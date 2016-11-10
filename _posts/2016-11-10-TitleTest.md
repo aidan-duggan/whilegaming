@@ -1,7 +1,4 @@
-
-
 ---
-
 layout: post
 
 title: first times the charm
