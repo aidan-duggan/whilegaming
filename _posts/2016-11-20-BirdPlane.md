@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is that a bird? A plane?
-Subtitle: No it's a Skyranger!
+subtitle: No it's a Skyranger!
 type: xcom
 image: http://whilegaming.github.io/img/skyranger.jpg
 imageText: SkyRanger
