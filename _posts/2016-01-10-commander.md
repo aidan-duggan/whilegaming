@@ -9,10 +9,6 @@ imageText: "XCOM"
 
 I never played the original x-com but as soon as played the remake xcom I fell in love with it. It has the perfect combination of smooth game play, easy to use UI and perfectly executed B movie aesthetics that I love.
 
-<p align="center">
-  <img src="http://whilegaming.github.io/img/xcom.jpg" alt="XCOM"/>
-</p>
-
 
 If you don't know [XCOM](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) is a 2012 turn based action game with some light base management mechanics. The premise is that you are in charge of a secret military organisation responsible for protecting the earth from alien invasion (xcom).
 
