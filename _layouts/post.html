@@ -12,6 +12,12 @@ layout: default
       	<p align="center">
     		<img src="{{page.image}}" alt="{{page.imageText}}"  width="500"/>
 	</p>
+
+{% if post.subtitle %}
+  	  <h3 class="page-subtitle">
+  	    {{ page.subtitle }}
+  	  </h3>
+  	  {% endif %} 
       </div>
      </div>
   </div>
