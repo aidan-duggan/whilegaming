@@ -17,7 +17,3 @@ I have learned some lessons from my previous attempts that will hopefully help t
 
 So here we are, third time’s the charm, hopefully I'll make a better run of it this time.
 
-<p align="center">
-  <img src="http://whilegaming.github.io/img/icon.png" alt="My Logo"/>
-</p>
-
