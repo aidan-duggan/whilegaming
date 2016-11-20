@@ -11,10 +11,6 @@ When it comes to websites I prefer something clean and basic. I'm sure there are
 
 I recently came across [Jekyll](https://jekyllrb.com/) and similar tools for automatically generating static html pages. The idea really appeals to me, I don't have a need for any dynamic content and the restriction will hopefully produce a cleaner site. There was also a strong advantage that [GitHub](https://github.com/) offers free hosting for Jekyll sites. This allowed me to quickly deploy a simple website for free with no adverts! 
 
-<p align="center">
-  <img src="https://jekyllrb.com/img/logo-2x.png" alt="Jekyll"/>
-</p>
-
 Hosting on GitHub also gives me the opportunity to learn git. The company I work for uses Perforce for code version control. It has a very centralised structure unlike git, so hosting here will give me the opportunity to expand my dev skill set.
 
 <p align="center">
