@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 3: Finishing
+title: Part 3- Finishing
 subtitle: Painting the Skyranger
 type: xcom
 image: http://whilegaming.github.io/img/front.JPG
