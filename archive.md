@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: archive
 subtitle: Posts by tag
 ---
 
