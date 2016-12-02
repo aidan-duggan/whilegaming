@@ -7,10 +7,10 @@ subtitle: Posts by tag
 # Arhive
 Click on each post title to view it.
 
-{% for tag in site.tags %}
-  <h2 class='tag-header' id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
+{% for tag in site.type %}
+  <h2 class='tag-header' id="{{ type[0] }}-ref">{{ type[0] }}</h2>
   <ul>
-    {% assign pages_list = tag[1] %}
+    {% assign pages_list = type[1] %}
 
     {% for node in pages_list %}
       {% if node.title != null %}
