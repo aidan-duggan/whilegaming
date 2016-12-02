@@ -4,7 +4,7 @@ title: Archive
 subtitle: Posts by tag
 ---
 
-# Arhive
+# Archive
 Click on each post title to view it.
 
 {% for type in site.type %}
