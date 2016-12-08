@@ -9,24 +9,22 @@ css: "/css/index.css"
 Click on each post title to view it.
 _Under Construction_
 
-{% for type in site.type %}
-  <h2 class='tag-header' id="{{ type[0] }}-ref">{{ type[0] }}</h2>
-  <ul>
-    {% assign pages_list = type[1] %}
-
-    {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if group == null or group == node.group %}
-          {% if page.url == node.url %}
-          <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
-          {% else %}
-          <li><a href="{{node.url}}">{{node.title}}</a></li>
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-  </ul>
-{% endfor %}
+<div class="posts-list">
+  {% for post in site.posts %}
+      <article class="post-preview">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+  	  <h2 class="post-title">{{ post.title }}</h2>
+  	
+  	  {% if post.subtitle %}
+    	  <h3 class="post-subtitle">
+    	    {{ post.subtitle }}
+    	  </h3>
+  	  {% endif %}
+      </a>  
+  
+      <p class="post-meta">
+        Posted on {{ post.date | date: "%B %-d, %Y" }}
+      </p>      
+        </article>
+  {% endfor %}
+</div>
