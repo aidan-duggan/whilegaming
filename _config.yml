@@ -29,9 +29,10 @@ avatar: "/img/icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  General: "general"
-  XCOM: "xcom"
-  Reviews: "reviews"
+  Sections:
+   - General: "general"
+   - XCOM: "xcom"
+   - Reviews: "reviews"
   Archive: "archive"
   
 # --- Footer options --- #
