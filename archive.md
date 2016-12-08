@@ -12,8 +12,8 @@ _Under Construction_
 <div class="posts-list">
   {% for post in site.posts %}
       <a href="{{ post.url | prepend: site.baseurl }}">
-  	  <p class="post-title">{{ post.title }}      
-        Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+  	  <p class="post-title">      
+        {{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}</p>
       </a>  
   {% endfor %}
 </div>
