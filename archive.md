@@ -13,7 +13,7 @@ _Under Construction_
   {% for post in site.posts %}
       <article class="post-preview">
       <a href="{{ post.url | prepend: site.baseurl }}">
-  	  <h3 class="post-title">{{ post.title }}</h2>
+  	  <h3 class="post-title">{{ post.title }}</h3>
       </a>  
   
       <p class="post-meta">
