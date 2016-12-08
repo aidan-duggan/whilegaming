@@ -2,6 +2,7 @@
 layout: page
 title: archive
 subtitle: Posts by tag
+css: "/css/index.css"
 ---
 
 # Archive
