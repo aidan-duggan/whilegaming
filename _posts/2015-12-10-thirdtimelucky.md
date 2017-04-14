@@ -3,7 +3,7 @@ layout: post
 title: Third Time's the Charm
 subtitle: In the beginning...
 type: general
-image: {{site.baseurl}}/img/icon.png
+image: {{ site.url }}/img/icon.png
 imageText: "My first logo"
 ---
 
