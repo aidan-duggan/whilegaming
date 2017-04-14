@@ -3,7 +3,7 @@ layout: post
 title: Part 3- Finishing
 subtitle: Painting the Skyranger
 type: xcom
-image: img/front.JPG
+localimage: img/front.JPG
 imageText: Painted Skyranger
 ---
 
