@@ -8,7 +8,7 @@ title: First times the charm
 
 type: general
 
-image: img/titleImage.jpg
+localimage: img/titleImage.jpg
 
 imageText: "My first test"
 
