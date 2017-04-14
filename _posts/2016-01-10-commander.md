@@ -14,14 +14,9 @@ If you don't know [XCOM](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) is a
 
 The remake takes a very deep and complex game and boils it down it down to its purest form, and adds a real b movie aesthetic. Destructible buildings and complex inventory management for each solider is replaced with cover based combat and a simple gun armour equipment slot system. The cast is the classic old male American engineer, the female German scientist and the shadowy figure who controls the funding for you organisation. The alien autopsies are performed with chainsaws and one of the aliens is a surreal versions of James Bond type spy.
 
-<p align="center">
-  <img src="http://whilegaming.github.io/img/sectoids.jpg" alt="XCOM"/>
-</p>
-_Sectoids are the basic enemy in XCOM. They are the classic [Greys](https://en.wikipedia.org/wiki/Grey_alien) archtype of the 50s and 60s._
-<p align="center">
-  <img src="http://whilegaming.github.io/img/thinman.jpg" alt="XCOM"/>
-</p>
-_Thin Men are a parody of the [Men in Black](https://en.wikipedia.org/wiki/Men_in_black) that would fight against such Greys!_
+{% include image.html image="sectoids.jpg" content="Sectoids are the basic enemy in XCOM. They are the classic [Greys](https://en.wikipedia.org/wiki/Grey_alien) archtype of the 50s and 60s."%}
+{% include image.html image="thinman.jpg" content="Thin Men are a parody of the [Men in Black](https://en.wikipedia.org/wiki/Men_in_black) that would fight against such Greys!"%}
+
 
 I've been recently looking to play some more 20mm wargaming. I have a fully painted Falklands era British platoon, and a number of building more appropriate for British Isles (they are model railway buildings originally) and I have started work on modern Irish army platoon. I have used all of these in Cold War gone hot scenarios but it isn't the most believable setup and my building paint jobs are not the best aesthetic (bright and primary colours) for it. I finally got around to painting my modern Irish platoon and was trying to see if I could use them with my British for some sort Irish/uk or uk civil war, but I felt the tone of that would be wrong.
 
