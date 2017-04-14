@@ -3,7 +3,7 @@ layout: post
 title: Is that a bird? A plane?
 subtitle: No it's a Skyranger!
 type: xcom
-image: img/skyranger.jpg
+localimage: img/skyranger.jpg
 imageText: SkyRanger
 ---
 
