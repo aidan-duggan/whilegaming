@@ -3,7 +3,7 @@ layout: post
 title: Commander...
 subtitle: It all begins here.
 type: xcom
-image: http://whilegaming.github.io/img/xcom.jpg
+image: img/xcom.jpg
 imageText: "XCOM"
 ---
 
