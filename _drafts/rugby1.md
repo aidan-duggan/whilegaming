@@ -1,32 +1,57 @@
-Continuing on from my previous boardgames idea post I am very happy with my idea for a game about rugby. 
-I have thought about it and I'm thinking hard about how to balance simulations vs abstraction. 
-Simulationism would like to try to model everything a player does on a pitch, but that could end up being very boring or impractical!
-Abstraction helps reduce the complexity to something more like a boardgame but could remove some of the flavour of the game and stop its feeling like a game of Rugby and just a game with a Rugby theme.
+---
+layout: post
+title: Rugby 7s: The checklist
+subtitle: What I'm looking in my game
+type: ideas
+localimage: img/r71.jpg
+imageText: "A demo board to work with."
+---
 
-To help my thoughts I found a checklist guide to creating your own boardgame, it advised to answer some questions early on about what you want your game to be like and use these to guide the design.
+I am very happy with my idea for a game about rugby, I have been thinking about it and it feels like something that should be straightforward for me to work with as a first game. 
+I'm thinking hard about how to balance simulation vs abstraction though, I want the game to be quick and interesting but definitely keep the feel of a game of rugby. Bloodbowl is a game that feels like a very good simlulation of a sports game but it is long and complicated. Bloodbowl Team Manager is a very abstract game of managing a team, it is much simplier but still very good!
+
+Simulationism is me trying to model everything a player does on a pitch, but that will end up being very boring or impractical!
+Abstraction helps me reduce this complexity to something more like a boardgame but could remove the flavour of the game and stop its feeling like a game of Rugby and just a game with a Rugby theme. I think this is an important balance in boardgames, it is one that different people have different preferences for. For me I want to lean more towards the abstraction as this will make the game simpilier and faster.
+
+To help my thoughts I did some research and I found a checklist guide to creating your own boardgame, it advised to answer some questions early on about what you want your game to be like and use these to guide the design.
+
 So here they are:
-Target Audience:
-Experienced enough boardgamers
-What will be fun:
-It will pack the tension and dynamics of the sport
-Players:
+
+* **Target Audience:**
+Regular boardgamers
+
+* **What will be fun:**
+It will have the tension and dynamics of the sport
+
+* **Players:**
 2
-Ideal length:
+
+* **Ideal length:**
 30-45 minutes.
-Learning Curve:
-Rules should be simple but could be complex to master
-Overall game size:
+
+* **Learning Curve:**
+Rules should be simple to understand but have some depth to actual play
+
+* **Overall game size:**
 Small size, 14 or so tokens and a couple of desks of cards.
-Player Interaction
+
+* **Player Interaction**
 It is simulating a game of rugby so it is direct iteraction but it should not be a zero sum game if possible.
-What choices should there be:
+
+* **What choices should there be:**
 Resource allocation representing what the players can do.
 Board position representing where the players are.
-Risk v Reward some actions will hinge a bit on luck so this has to be managed.
-Is there randomness and how much:
-There will be come randomness but ideally it should be well contained.
-What themes are being aimed for:
-Rugby 7s has a sort of score at any time element to it that ideally should be preserved.
-There should be moments of excitement where a player pulls something off and there is lots of action.
+
+* **Risk v Reward**
+Some actions need to hinge a bit on luck so this has to be managed.
+
+* **Is there randomness and how much:**
+There will be some randomness but ideally it should be well contained, fixed pool of cards for example.
+
+* **What themes are being aimed for:**
+Rugby 7s has a sort of 'can score at any time' element to it that ideally should be preserved.
+There should be moments of excitement where a player pulls something off and there is lots of quick action resulting in a score.
 Big tackles where a player hits another are a highlight of the sport (for good or bad) that should come through.
 Rugby is a lot about trying to expect what the opposition is going to do so it should not always be clear what will happen.
+
+Hopefully this will help me going forward. Its clear there is a tension in wanting to replicate every action each player can do, and wanting a simple enjoyable experience. I have made a simple board and for cards but I think I need to knuckle down and pick some mechanics and start actually documenting and building on them. That is what I'll have for my next ideas blog post, so now I have a target to work to!
