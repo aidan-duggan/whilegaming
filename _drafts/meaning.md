@@ -22,7 +22,9 @@ I think the necessisty of having multiple people who are focused on having an in
 
 Saying that it occurs to me one boardgame I have played that does bring up interesting questions, Sherlock Holmes Consulting Detective but I does that by having no replayability and not really caring if it is played by 1 or more people. I have yet to play the Legacy style boardgames but these definitely sound like that could offer some of this type of experience. 
 
-What part does the necessity to have a winner play? Could cooperative games be different? When I think about this it occurs to me that in video games there is rarely a significant game mechanic affect from any story choices so players are usually free to make these choices and explore there affects knowing it would prevent their ability to progress and "win".
+What part does the necessity to have a winner play? Could cooperative games be different? When I think about this, it occurs to me that in video games there is rarely a significant game mechanic affect from any story choices so players are usually free to make these choices and explore there affects knowing it will no prevent their ability to progress and "win".
 
 What can be done?
+
+
 
