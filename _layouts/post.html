@@ -82,6 +82,7 @@ layout: default
 {% if site.data.comments.[page.slug] %}
 {% assign comments = site.data.comments.[page.slug] | sort %}
   <div >
+   <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 {% for comment in comments reversed %}
   {% assign commentData = comment[1] %}
     <h4> <em>{{ commentData.name }}</em> said</h4>
@@ -89,5 +90,6 @@ layout: default
     <h5 style="margin-top: 18px">{{ commentData.message }}</h5>
     <br/>
 {% endfor %}
+    </div>
   </div>
 {% endif %}
