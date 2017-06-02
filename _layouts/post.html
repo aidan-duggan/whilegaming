@@ -86,7 +86,7 @@ layout: default
   {% assign commentData = comment[1] %}
     <h4> <em>{{ commentData.name }}</em> said</h4>
     <h6>{{ commentData.date | date: ' %-d %B %Y @ %r' }}</h6>
-    <h5 style="margin-top: 18px">{{ commentData.comment }}</h5>
+    <h5 style="margin-top: 18px">{{ commentData.message }}</h5>
     <br/>
 {% endfor %}
   </div>
