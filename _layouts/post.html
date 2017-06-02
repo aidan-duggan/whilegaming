@@ -86,7 +86,7 @@ layout: default
 {% for comment in comments reversed %}
   {% assign commentData = comment[1] %}
     <h4>{{ commentData.name }}</h4> said
-    <p style="margin-top: 18px;background: #F5F5F5;padding: 15px>{{ commentData.message }}</p>
+    <p style="margin-top: 18px;background: #F5F5F5;padding: 15px">{{ commentData.message }}</p>
     <h6>{{ commentData.date | date: ' %-d %B %Y @ %r' }}</h6>
     <br/>
 {% endfor %}
