@@ -1,5 +1,5 @@
 comments:
-  allowedFields: ["name", "email", "message"]
+  allowedFields: ["name", "message"]
   branch: "master"
   commitMessage: "New Comment"
   filename: "entry{@timestamp}"
@@ -12,6 +12,6 @@ comments:
   moderation: true
   name: "aidan-duggan.github.io/whilegaming"
   path: "_data/comments/{options.slug}"
-  requiredFields: ["name", "email", "message"]
+  requiredFields: ["name", "message"]
   transforms:
     email: md5
