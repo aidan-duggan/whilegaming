@@ -83,7 +83,6 @@ layout: default
 {% assign comments = site.data.comments.[page.slug] | sort %}
   <div >
 {% for comment in comments reversed %}
-hello
   {% assign commentData = comment[1] %}
     <h4> <em>{{ commentData.name }}</em> said</h4>
     <h6>{{ commentData.date | date: ' %-d %B %Y @ %r' }}</h6>
