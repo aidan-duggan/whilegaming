@@ -62,11 +62,14 @@ layout: default
     <form method="POST" action="https://api.staticman.net/v2/entry/aidan-duggan/whilegaming/branch/comments">
 	  <!-- e.g. "2016-01-02-this-is-a-post" -->
 	  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-	  <label><input name="fields[name]" type="text">Name</label>
+	  <label>Name: </label>
+	  <input name="fields[name]" type="text">
 	  <br>
-	  <label><input name="fields[email]" type="email">E-mail</label>
+	  <label>E-mail: </label>
+	  <input name="fields[email]" type="email">
 	  <br>
-	  <label><textarea name="fields[message]"></textarea>Message</label>  
+	  <label>Comment: </label>  
+	  <textarea name="fields[message]"></textarea>
 	  <br>
   <button type="submit">Submit Comment</button>
   <br>
