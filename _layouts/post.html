@@ -79,7 +79,7 @@ layout: default
   </div>
 </div>
 
-{% if site.data.comments[page.slug] %}
+{% if site.data.comments.[page.slug] %}
 {% assign comments = site.data.comments.[page.slug] | sort %}
   <div >
 {% for comment in comments reversed %}
