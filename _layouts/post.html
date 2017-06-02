@@ -84,13 +84,10 @@ layout: default
   <div >
 {% for comment in comments reversed %}
   {% assign commentData = comment[1] %}
-  {% assign r = commentData.replying_to %}
-  {% if r == '' %}
     <h4> <em>{{ commentData.name }}</em> said</h4>
     <h6>{{ commentData.date | date: ' %-d %B %Y @ %r' }}</h6>
     <h5 style="margin-top: 18px">{{ commentData.comment }}</h5>
     <br/>
-  {% endif %}
 {% endfor %}
   </div>
 {% endif %}
