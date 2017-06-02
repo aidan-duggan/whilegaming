@@ -74,6 +74,23 @@ layout: default
   <button type="submit">Submit Comment</button>
   <br>
   Comments are moderated so will take time to appear.
+  <br>
 </form>
   </div>
 </div>
+
+{% if site.data.comments[page.slug] %}
+{% assign comments = site.data.comments.[page.slug] | sort %}
+  <div class="user-comments">
+{% for comment in comments reversed %}
+  {% assign commentData = comment[1] %}
+  {% assign r = commentData.replying_to %}
+  {% if r == '' %}
+    <h4> <em>{{ commentData.name }}</em> said</h4>
+    <h6>{{ commentData.date | date: ' %-d %B %Y @ %r' }}</h6>
+    <h5 style="margin-top: 18px">{{ commentData.comment }}</h5>
+    <br/>
+  {% endif %}
+{% endfor %}
+  </div>
+{% endif %}
