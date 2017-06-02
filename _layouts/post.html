@@ -81,7 +81,7 @@ layout: default
 
 {% if site.data.comments[page.slug] %}
 {% assign comments = site.data.comments.[page.slug] | sort %}
-  <div class="user-comments">
+  <div >
 {% for comment in comments reversed %}
   {% assign commentData = comment[1] %}
   {% assign r = commentData.replying_to %}
