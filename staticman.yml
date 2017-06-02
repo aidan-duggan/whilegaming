@@ -13,6 +13,5 @@ comments:
   name: "aidan-duggan.github.io/whilegaming"
   path: "_data/comments/{options.slug}"
   requiredFields: ["name", "email", "message"]
-  moderation: true
   transforms:
     email: md5
