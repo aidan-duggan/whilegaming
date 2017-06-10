@@ -7,21 +7,24 @@ image: XXXXXXXXX
 imageText: "NNNNNNN"
 ---
 
-As promised in my last post I have started to document the rules for my Rugby 7s baordgame. 
+As promised in my last post I have started to document the rules for my Rugby 7s bordgame. 
 This has really helped me get my thoughts together and document what I've been thinking so far and the questions I need to answer.
 
 {% include image.html image="XXXXXXXXX" content="XXXXXXXXX" %}
 
 ### GitHub
 
-This site is managed through github.com an online document version and storage system. It works great to managing text docs and the history of changes made to them.
-It is mostly used to manage computer program source code so it also has features to logging issues discovered. When you don't pay github the contents of your documents are public to everyone. 
-This is done to encourage people to offically Open Source their programs, but it also acts as an encouragement to get people to pay GitHub and so prevent others seeing their documents. 
-Modern writers when writing books keep a history of their revisions (at least I hope they do) and github is a great tool for this. This has lead to some people putting their draft books online as they are writing then, getting early feedback from people as they write.
+My site is managed through github.com an online document version and storage system. It works great to managing text docs and the history of changes made to them.
+It is mainly used to manage computer program source code so it also has features to logging issues discovered. When you don't pay github the contents of your documents are public to everyone. 
+This is done to encourage people to offically Open Source their programs, but it also acts as an encouragement to get people to pay GitHub to prevent others seeing their documents. 
+Some people are putting drafts of theirs books online as they are writing then, getting early feedback from people as they write. 
+Rules of a boardgame seems like a great fit for this, I can document and annotate the rules as they come to me and others can see them and provide advice.
+Its also easy to log issues or questions I have and then close them with the solutions I come up with. This will allow me to go back and understand why I made certain choices.
 
 ### Rules as they are written
 
-
+For a while I kept running rules ideas over and over in my head trying to figure out the complete perfect picture. This is clearly not very productive since nothing is recorded!
+Instead I'm writing things down now in a repository on github
 
 {% include image.html image="XXXXXXXXX" content="XXXXXXXXX" %}
  
