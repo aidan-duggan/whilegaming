@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Rugby 7s - Rules in Progress
-subtitle: 
+subtitle: Putting it down on paper
 type: ideas
 image: XXXXXXXXX
 imageText: "NNNNNNN"
 ---
 
-As promised in my last post I have started to document the rules for my Rugby 7s bordgame. 
+As promised in my last post I have started to document the rules for my Rugby 7s boardgame. 
 This has really helped me get my thoughts together and document what I've been thinking so far and the questions I need to answer.
 
 {% include image.html image="XXXXXXXXX" content="XXXXXXXXX" %}
@@ -23,11 +23,8 @@ Its also easy to log issues or questions I have and then close them with the sol
 
 ### Rules as they are written
 
-For a while I kept running rules ideas over and over in my head trying to figure out the complete perfect picture. This is clearly not very productive since nothing is recorded!
-Instead I'm writing things down now in a repository on github
-
-{% include image.html image="XXXXXXXXX" content="XXXXXXXXX" %}
- 
-#### Thoughts
-
-#### First Impression
+For a while I kept running rule ideas over and over in my head trying to figure out the complete perfect picture. 
+This is clearly not very productive since nothing is recorded!
+Instead I'm writing things down now in github, laying down the core mechanics and recording where the gaps are.
+While its not much it feels like much more progress then I have made before. 
+It is clear now though that I need to focus on completing a first draft of the rules set, focusing on how the game starts, how the ends and the flow of actions betwee.
