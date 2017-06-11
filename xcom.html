@@ -3,11 +3,12 @@ layout: page
 title: XCOM
 subtitle: Posts about my XCOM wargame project
 css: "/css/index.css"
+type: xcom
 ---
 
 <div class="posts-list">
   {% for post in site.posts %}
-    {% if post.type == "xcom" %}
+    {% if post.type == page.type %}
       <article class="post-preview">
       <a href="{{ post.url | prepend: site.baseurl }}">
   	  <h2 class="post-title">{{ post.title }}</h2>
