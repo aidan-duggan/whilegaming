@@ -33,6 +33,7 @@ navbar-links:
    - General: "general"
    - XCOM: "xcom"
    - Reviews: "reviews"
+   - Ideas: "ideas"
   Archive: "archive"
   
 # --- Footer options --- #
