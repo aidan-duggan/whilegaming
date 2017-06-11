@@ -9,7 +9,17 @@ layout: default
         <h1>{{ page.title }}</h1>
         <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 	      
-{% include postimage.html %}
+{% if page.image != null %}
+<p align="center">
+	<img src="{{page.image}}" alt="{{page.imageText}}"  width="500"/>
+</p>
+{% endif %} 
+
+{% if page.localimage != null  %}
+<p align="center">
+	<img src="{{site.url}}/{{page.localimage}}" alt="{{page.imageText}}"  width="500"/>
+</p>
+{% endif %} 
 	      
 
 {% if page.subtitle %}
