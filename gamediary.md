@@ -1,7 +1,7 @@
 ---
 layout: page
 title: playing
-subtitle: Game I have played
+subtitle: A record of games I have played
 css: "/css/index.css"
 ---
 
