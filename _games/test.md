@@ -1,0 +1,8 @@
+---
+game: A Handful of Stars
+players: 4
+position: 2
+opinion: Fun, but a lot of randomness in set up.
+localimage: img/
+imageText: ""
+---
