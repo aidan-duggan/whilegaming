@@ -29,6 +29,7 @@ avatar: "/img/icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
+  Game Diary: "gamediary"
   Sections:
    - General: "general"
    - XCOM: "xcom"
