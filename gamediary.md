@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Game Diary
+title: playing
 subtitle: Game I have played
 css: "/css/index.css"
 ---
