@@ -7,7 +7,7 @@ css: "/css/index.css"
 <div>
   {% for game in site.games %}        
     <div class="clearfix float-my-children">
-       <img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Balzac.jpg/220px-Balzac.jpg" width=100>
+       <img src="//upload.wikimedia.org/wikipedia/commons/f/fa/Honor%C3%A9_de_Balzac_(Stories_By_Foreign_Authors).png" width=100>
        </img> 
        <div>{{ game.game }}</div>
     </div>
