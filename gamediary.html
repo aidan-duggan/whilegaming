@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: playing
@@ -5,13 +6,15 @@ subtitle: A record of games I have played
 css: "/css/index.css"
 ---
 <div>
-  {% for game in site.games %}        
+  {% for game in site.games %}
     <div class="clearfix float-my-children">
-       <img src="//upload.wikimedia.org/wikipedia/commons/f/fa/Honor%C3%A9_de_Balzac_(Stories_By_Foreign_Authors).png" width=100>
-       </img> 
+       <img src="//upload.wikimedia.org/wikipedia/commons/f/fa/Honor%C3%A9_de_Balzac_(Stories_By_Foreign_Authors).png" width=100>
+       </img>
        <h3>{{ game.game }}</h3>
-       <h5>{{ game.players }}</h5>
-       <h5>{{ game.position }}</h5> 
+       <p>Players: </p>
+       <p>{{ game.players }}</p>
+       <p>Position: </p>
+       <p>{{ game.position }}</p>
     </div>
   {% endfor %}
 </div>
