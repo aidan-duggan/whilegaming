@@ -12,10 +12,9 @@ css: "/css/index.css"
 </div>
 <div style="display:inline-block;">
      <h3>{{ game.game }}</h3>
-       <p>Players: </p>
-       <p>{{ game.players }}</p>
-       <p>Position: </p>
-       <p>{{ game.position }}</p>
+       <p><b>Players:</b> {{ game.players }}</p>
+       <p><b>Position:</b> {{ game.position }}</p>
+       <p><i>{{ game.opinion }}</i></p>
    </div>  
 <br></br>
   {% endfor %}
