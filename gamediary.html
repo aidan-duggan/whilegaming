@@ -7,8 +7,8 @@ css: "/css/index.css"
 <div>
   {% for game in site.games %} 
     <div style="display:inline-block;vertical-align:top;">
-    <img src="{{ site.url }}/img/{{ game.localImage }}" width=100>
-       </img>
+    <a href="{{ site.url }}{{ site.baseurl }}/img/{{ game.image }}"><img src="{{ site.url }}/img/{{ game.localImage }}" width=200>
+      </img></a>
 </div>
 <div style="display:inline-block;">
   <p>
