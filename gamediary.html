@@ -13,7 +13,8 @@ css: "/css/index.css"
 <div style="display:inline-block;">
   <p>
      <b style="font-size:18px;">{{ game.game }}</b>
-       <br><b>Players:</b> {{ game.players }}
+    <br><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}
+        <br><b>Players:</b> {{ game.players }}
        <br><b>Position:</b> {{ game.position }}
        <br><i>{{ game.opinion }}</i></p>
    </div>  
