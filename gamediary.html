@@ -7,7 +7,7 @@ css: "/css/index.css"
 <div>
   {% for game in site.games %} 
     <div style="display:inline-block;vertical-align:top;">
-    <img src="//upload.wikimedia.org/wikipedia/commons/f/fa/Honor%C3%A9_de_Balzac_(Stories_By_Foreign_Authors).png" width=100>
+    <img src="{{ site.url }}/img/{{ game.image }}" width=100>
        </img>
 </div>
 <div style="display:inline-block;">
