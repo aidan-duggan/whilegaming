@@ -5,7 +5,7 @@ subtitle: A record of games I have played
 css: "/css/index.css"
 ---
 <div>
-  {% for game in site.games %} 
+  {% for game in site.games reversed %} 
     <div style="display:inline-block;vertical-align:top;margin:30px">
     <a href="{{ site.url }}/img/{{ game.localImage }}"><img src="{{ site.url }}/img/{{ game.localImage }}" width=200>
       </img></a>
