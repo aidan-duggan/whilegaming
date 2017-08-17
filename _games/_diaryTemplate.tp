@@ -3,6 +3,5 @@ game:
 players:
 position:
 opinion:
-localImage: img/
-imageText: ""
+localImage: 
 ---
