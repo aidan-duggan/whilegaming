@@ -6,11 +6,11 @@ css: "/css/index.css"
 ---
 <div>
   {% for game in site.games reversed %} 
-    <div style="display:inline-block;vertical-align:top;margin:30px">
+    <div style="display:inline-block;vertical-align:top;margin:30px;max-width:40%">
     <a href="{{ site.url }}/img/{{ game.localImage }}"><img src="{{ site.url }}/img/{{ game.localImage }}" width=200>
       </img></a>
 </div>
-<div style="display:inline-block;">
+<div style="display:inline-block;max-width:60%">
   <p>
      <b style="font-size:18px;">{{ game.game }}</b>
     <br><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}
