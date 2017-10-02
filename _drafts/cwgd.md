@@ -13,6 +13,11 @@ Learning from others is central to creating something. Great works are often bui
 First up is Clockwork Game Design by Keith Burgun. Clockwork Game Design is a compact 146 page book about how to design a strategy game. It tries to be generic to the system, boardgame or computer game. Instead focusing on what should be the focus of the designer when building a strategy game.
 
 #### Content
+
+The book outlines what it sees as two main forms of game design. Patchwork game design where rules and systems are patched together until the game appears to function. Versus the clockwork game design which the auther champions, where the game is built around a core mechanic. 
+//more details about the book
+//more examples of bool
+
 #### Pros
 #### Cons 
 #### Conclusion
