@@ -6,3 +6,9 @@ type: review
 image: img/cgmd.jpg
 imageText: Quite a small compact game design book.
 ---
+
+### Introduction
+### Content
+### Pros
+### Cons 
+### Conclusion
