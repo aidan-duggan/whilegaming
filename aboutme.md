@@ -4,7 +4,7 @@ title: me
 subtitle: Decisions, decisions, decisions..
 ---
 
-My name is Aidan Duggan, I'm an avid gamer of all types of games, though particularly boardgames. For a living I'm a Java software developer working for a financial software company.
+My name is Aidan Duggan, I'm an avid gamer of all types of games, though particularly boardgames. For a living I'm a lead software developer working for a financial software company.
 
 This blog will sporadically follow my adventures in gaming, with perhaps the odd programming tangent.
 
