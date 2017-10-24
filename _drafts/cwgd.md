@@ -10,26 +10,30 @@ imageText: Quite a small compact game design book.
 #### Introduction
 
 Learning from others is central to creating something new. Great works are often built on the research and development of others. To that end I have purchased some game design books to help me with my own project. 
-First up is Clockwork Game Design by Keith Burgun. Clockwork Game Design is a compact 146 page book about how to design a strategy game. It tries to be generic to the system, boardgame or computer game. Instead focusing on what should be the focus of the designer when building a strategy game.
+First up is Clockwork Game Design by Keith Burgun. Clockwork Game Design is a compact 146 page A5 book about how to design a strategy game. It tries to be generic to the medium, boardgame or computer game. Instead focusing on what should be the focus of the designer when building a strategy game.
 
 #### Content
 
-The book outlines what it sees as two main forms of game design. Patchwork game design where rules and systems are patched together until the game appears to function. Versus the clockwork game design which the auther champions, where the game is built around a core mechanic. Over 4 chapters the author describes a scope for what is a game, what makes up a game, how to go about building a game and common pitfalls in game design. It is a highly focus book, aimed at someone trying to developer a decision making strategy game.
+The book outlines what it sees as two main forms of game design. Patchwork game design where rules and systems are patched together until the game appears to function. Versus the clockwork game design which the auther champions, where the game is built around a core mechanic. Over 4 chapters the author describes a scope for, what is a game, what makes up a game, how to go about building a game and common pitfalls in game design. It is a highly focused book, aimed at someone trying to developer a decision making strategy game.
 
 #### Pros
 
 The writing style is concise and clear, the author is unambigous about how focused the book is on a specific type of game.
 
-The outline of the difference between a toy, a puzzle, a contest and a game and how each  provides enjoyment in different way is very illumiating and I will try to do a piece about this at some point.
+The outline of the difference between a toy, a puzzle, a contest and a game and how each provides enjoyment in different way is very illumiating and I will try to do a piece about this at some point.
 
-The author provides good examples, I particularly appreciate using the same games in each example. I think it could hav done with more examples, perhaps a chapter at the end dedicated to more examples.
+The author provides good examples, I particularly appreciate using the same games over again so you can see how all aspects apply to the same game. I think it could have done with more examples, perhaps a chapter at the end dedicated to more examples.
 
-The book does a good job covering each aspect  of design.
+The book does a good job covering each aspect of design.
 
 #### Cons 
 
 The author is clear about focusing on strategy games but I sometimes feels it is too focused and not considering enough of other types of games. 
 
+The content is very dry, much like the design concept the author is describing, the book itself is very mechanical.
 
+The core tenent of picking a mechanical focus and building around that is not very revelatory in my opinion. It is sort of self evident, hacking and stick things together (patchwork) will not produce a better result then carefully crafting something. 
 
 #### Conclusion
+
+Overall Clockwork Game Design is a tight little book that acts as a decent base for someone coming at designing something with no previous design experience. As a professional software developer, I have years of experience designing systems so a lot of the book felt a bit too basic to me. I feel the writing and content could be a little more lively and conversation, but I can see that the author might be pitching more at the technical book style common in software development.
