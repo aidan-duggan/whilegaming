@@ -1,1 +1,2 @@
 test: .github
+html: ["*.html"]
